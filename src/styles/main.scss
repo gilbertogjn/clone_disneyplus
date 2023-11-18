@@ -145,10 +145,12 @@ body {
 
     @media (max-width: 768px) {
         display: block;
+        text-align: center;
     }
 
     img {
         max-width: 100%;
+        margin-bottom: 16px;
     }
 
     &__text_container {
